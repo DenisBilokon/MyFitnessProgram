@@ -6,7 +6,6 @@ namespace Fitness.CMD
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
